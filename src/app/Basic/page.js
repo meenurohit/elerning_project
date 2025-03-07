@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react'
-import Pagination from '../Components/Pagination'
+import Pagination from './Components/Pagination'
 
 const Basic = () => {
     return (
