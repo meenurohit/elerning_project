@@ -1,9 +1,9 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import NavTopOne from "../Components/NavTopOne";
-import NavTopTwo from "../Components/NavTopTwo";
-import Sidebar from "../Components/Sidebar";
-import Footer from "../Components/Footer";
+import NavTopOne from "@/Components/NavTopOne";
+import NavTopTwo from "@/Components/NavTopTwo";
+import Sidebar from "@/Components/Sidebar";
+import Footer from "@/Components/Footer";
 
 export default function RootLayout({ children }) {
   return (

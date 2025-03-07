@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import Pagination from '../Components/Pagination';
+import Pagination from '@/Components/Pagination';
 
 
 const HomePage = () => {
