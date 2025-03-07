@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import Pagination from '@/Components/Pagination';
+import Pagination from '../Components/Pagination';
 
 const Video = () => {
   return (
